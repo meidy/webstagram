@@ -1,4 +1,0 @@
-webstagram
-==========
-
-favorite webs
